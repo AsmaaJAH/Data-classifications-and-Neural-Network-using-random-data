@@ -6,5 +6,7 @@ and Neural Network using randomly-generated data ((the Bonus assignment of an AI
 
 # the Project Colab link:
 
+Libraries used: scikit-learn , pytorch , pandas , matplotlib.
+
 https://colab.research.google.com/drive/1Yajb4unPgM7WZGbB_A0JN0NcAgHBbE-e#scrollTo=Rexp_ISfqmDn
 
